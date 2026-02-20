@@ -25,7 +25,7 @@ When you consolidate data from one accounting currency to another, you must stil
 - **Source/operating company (USMF)** – US dollars (USD) are used as the accounting and reporting currency.
 - **Consolidated company (CON)** – Euros (EUR) are used as the accounting and reporting currency.
     - **Realized gain** – Ledger account 801500
-    - **Realized loss** – Ledger account 801600
+    - **Realized loss** – Ledger account 801300
     - **Unrealized gain** – Ledger account 801600
     - **Unrealized loss** – Ledger account 801400
 
@@ -42,9 +42,9 @@ When you consolidate data from one accounting currency to another, you must stil
 
 | From currency | To currency | Start date | Exchange rate |
 |---------------|-------------|------------|---------------|
-| EUR           | USD         | 10/1/2020  | 200           |
-| EUR           | USD         | 11/1/2020  | 150           |
-| EUR           | USD         | 12/1/2017  | 100           |
+| EUR           | USD         | 10/1/2020  | 2.00          |
+| EUR           | USD         | 11/1/2020  | 1.50          |
+| EUR           | USD         | 12/1/2020  | 1.00          |
 
 ## Perform the consolidation for October 2020
 
